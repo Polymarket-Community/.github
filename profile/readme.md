@@ -1,5 +1,5 @@
 # Polymarket Community
-![Polymarket Community Banner](../assets/banner.png)
+![Polymarket Community Banner](../assets/banner.jpg)
 Welcome to **Polymarket Community**.
 
 This organization was created for people who believe prediction markets are more than just trading — they are **a new way to understand the world**.
